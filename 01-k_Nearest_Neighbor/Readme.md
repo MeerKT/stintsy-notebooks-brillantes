@@ -1,2 +1,2 @@
-# Introduction
-kNN (k Nearest Neighbor) Jupyter Notebook
+# kNN (k Nearest Neighbor)
+Download ZIP folder with cifar-10 dataset
