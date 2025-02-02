@@ -1,2 +1,2 @@
 # Introduction
-kNN (k Nearest Neighbor) Jupter Notebook
+kNN (k Nearest Neighbor) Jupyter Notebook
